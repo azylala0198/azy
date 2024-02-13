@@ -8,4 +8,5 @@ while True:
 	elif user_input == 'goodmorning':
 		print('Good to hear!')
 
-	elif user_input == 'bad':			
+	elif user_input == 'bad':
+		print('what?')			
